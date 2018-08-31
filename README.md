@@ -2,9 +2,13 @@
 An iOS app that allows you to login via Udacity API and populate students information on the map
 
 ## Technologies Used:
-CoreData <br>
+TableView <br>
 MapKit <br>
-CollectionView <br>
+MapKitAnnotations <br>
+
+## Frameworks Used:
+UdacityAPI <br>
+Udacity Parse API <br>
 
 ## Screenshots:
 ![0](https://user-images.githubusercontent.com/12707831/44938863-318ac600-ad4f-11e8-81f2-cb74de658186.jpg)

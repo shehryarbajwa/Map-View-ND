@@ -1,6 +1,10 @@
 # Map-View-ND
 An iOS app that allows you to drop pins on the map and fetch images from Flickr's API
 
+## Language, IDE:
+Swift 4.0
+XCode 9+
+
 ## Technologies Used:
 CollectionView <br>
 CoreData <br>
